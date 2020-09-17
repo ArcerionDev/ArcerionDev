@@ -7,7 +7,7 @@
     <img style="border-radius: 100px" src="https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true">
 </p>
 
-## Languages, frameworks, and modules I use
+<h1 align="center">Languages, frameworks, and modules I use</h1>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="HTML5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
