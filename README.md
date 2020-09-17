@@ -16,7 +16,10 @@
 <img align="left" alt="Discord.js" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" />
 <img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
 
--------------
+
+
+
+
 ## Statistics:
 [![stats](https://github-readme-stats.vercel.app/api?username=AVN1114)](https://github.com/anuraghazra/github-readme-stats)
 
