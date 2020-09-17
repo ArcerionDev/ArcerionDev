@@ -20,5 +20,5 @@
 <br />
 
 ## Statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=AVN1114)]
+![stats](https://github-readme-stats.vercel.app/api?username=AVN1114)
 
