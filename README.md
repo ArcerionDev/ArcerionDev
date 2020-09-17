@@ -4,4 +4,4 @@
 <h1 align="center">AVN1114</h1>
 
 ## Popular Repositories:
-[![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=AVN1114&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
+[![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=Prodigy-Hacking&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
