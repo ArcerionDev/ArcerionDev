@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">AVN1114</h1>
 
-![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
-
+<img align="center" alt="stats" width="" src="![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)" />
 ## Languages, frameworks, and modules I use
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
