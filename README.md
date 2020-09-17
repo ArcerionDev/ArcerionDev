@@ -7,6 +7,7 @@
 [![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=Prodigy-Hacking&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
 
 ## Languages, frameworks, and modules I use
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVN1114)
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="HTML5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
