@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://o.remove.bg/downloads/3042dc4b-6542-48f4-88d4-e2b568955812/60945964-removebg-preview.png">
+    <img style="border-radius: 100px" width="64" height="64" src="https://o.remove.bg/downloads/3042dc4b-6542-48f4-88d4-e2b568955812/60945964-removebg-preview.png">
 </p>
 <h1 align="center">AVN1114</h1>
 
