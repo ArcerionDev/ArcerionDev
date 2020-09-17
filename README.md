@@ -20,7 +20,7 @@
 <br />
 
 ## Statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true&title_color=#00000&text_color=#00000)
+![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Contact:
 
