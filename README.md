@@ -7,6 +7,11 @@
     <img style="border-radius: 100px" src="https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true">
 </p>
 
+<details>
+  <summary><h1 align="center">About me</h1></summary>
+  Hi, I joined Github around February. My main skills are NodeJS based, and I write really ugly code.
+</details>
+
 <h1 align="center">Languages, frameworks, and modules I use</h1>
 <p align="center">
     <img style="border-radius: 100px" src="https://nimbus-screenshots.s3.amazonaws.com/s/802a3cd5bf0476ab4660f840ca13adcd.png">
