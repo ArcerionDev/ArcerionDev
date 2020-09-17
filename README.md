@@ -24,6 +24,7 @@
 
 ## Contact:
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6713
+<br />
 <img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> [ArcerionX@gmail.com](mailto:ArcerionX@gmail.com)
 
 
