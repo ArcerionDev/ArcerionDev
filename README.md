@@ -8,14 +8,14 @@
 </p>
 
 <h1 align="center">Languages, frameworks, and modules I use</h1>
-<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="center" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="center" alt="HTML5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
-<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" />
-<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="center" alt="Discord.js" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" />
-<img align="center" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="HTML5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Discord.js" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" />
+<img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
 <br />
 <br />
 <br />
@@ -25,5 +25,3 @@
 <br />
 
 <img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> [ArcerionX@gmail.com](mailto:ArcerionX@gmail.com)
-
-
