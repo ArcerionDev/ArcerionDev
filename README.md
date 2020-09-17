@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">AVN1114</h1>
 
-## Popular Repositories:
 [![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=Prodigy-Hacking&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
+![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Languages, frameworks, and modules I use
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -18,9 +18,6 @@
 <br />
 <br />
 <br />
-
-## Statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Contact:
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6713
