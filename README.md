@@ -22,7 +22,6 @@
 ## Statistics:
 ![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
 
-## Contact:
 <h1 align="center">Contact:</h1>
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6713
 </p>
