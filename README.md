@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">AVN1114</h1>
 
-[![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=Prodigy-Hacking&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
 ![stats](https://github-readme-stats.vercel.app/api?username=AVN1114&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Languages, frameworks, and modules I use
