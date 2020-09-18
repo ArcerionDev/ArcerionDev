@@ -3,6 +3,14 @@
 </p>
 <h1 align="center">AVN1114</h1>
 
+<details>
+  <summary>About Me</summary>
+  Hi! :3
+I'm a 13 year old from New England. Partial JS, SCSS and HTML5 developer, and partial EDM producer. I joined GitHub in February, and I'm still learning most languages. Hope you like what I make!
+- Arcerion
+</details>
+
+
 ## Popular Repositories:
 [![repouwu](https://github-readme-stats.vercel.app/api/pin/?username=Prodigy-Hacking&repo=ProdigyMathGameHacking)](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
 
