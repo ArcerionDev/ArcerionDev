@@ -7,7 +7,8 @@
   <summary>About Me</summary>
   Hi! :3
 I'm a 13 year old from New England. Partial JS, SCSS and HTML5 developer, and partial EDM producer. I joined GitHub in February, and I'm still learning most languages. Hope you like what I make!
-\n- Arcerion
+</p>
+- Arcerion
 </details>
 
 
