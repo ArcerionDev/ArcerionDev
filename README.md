@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">AVN1114</h1>
 
-## <details>
-<summary>**About Me**</summary>
+<details>
+## <summary>About Me</summary>
   Hi! :3
 </p>
 I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 developer. I joined GitHub in February, and I'm still learning most languages. Hope you like what I make!
