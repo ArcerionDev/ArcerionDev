@@ -37,6 +37,6 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 </p>
 <img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> ArcerionX@gmail.com
 </p>
-<img align="left" alt="Reddit" width="26px" src="http://t1.gstatic.com/images?q=tbn:ANd9GcThsotATP9ktYH_-oqNK6lYSI2USCxC-9nhbqScnKqvWFyxmL64" /> `_Arcerion_`
+<img align="left" alt="Reddit" width="26px" src="http://t1.gstatic.com/images?q=tbn:ANd9GcThsotATP9ktYH_-oqNK6lYSI2USCxC-9nhbqScnKqvWFyxmL64" /> _Arcerion_
 </p>
 <img align="left" alt="Spotify" width="26px" src="https://assets.volvocars.com/images/support/img111b8415222e4719c0a801525cd98714_1_--_--_VOICEpnghigh.png" /> Arcerion
