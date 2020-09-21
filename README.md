@@ -33,10 +33,10 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 ![stats](https://github-readme-stats.vercel.app/api?username=ArcerionDev&count_private=true&show_icons=true&include_all_commits=true)
 
 ## Contact:
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> `Arcerion#6713`
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6713
 </p>
-<img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> `ArcerionX@gmail.com`
+<img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> ArcerionX@gmail.com
 </p>
 <img align="left" alt="Reddit" width="26px" src="http://t1.gstatic.com/images?q=tbn:ANd9GcThsotATP9ktYH_-oqNK6lYSI2USCxC-9nhbqScnKqvWFyxmL64" /> `_Arcerion_`
 </p>
-<img align="left" alt="Spotify" width="26px" src="https://assets.volvocars.com/images/support/img111b8415222e4719c0a801525cd98714_1_--_--_VOICEpnghigh.png" /> `Arcerion`
+<img align="left" alt="Spotify" width="26px" src="https://assets.volvocars.com/images/support/img111b8415222e4719c0a801525cd98714_1_--_--_VOICEpnghigh.png" /> Arcerion
