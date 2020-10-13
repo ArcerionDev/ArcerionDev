@@ -41,6 +41,6 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 <br />
 
 ## Statistics:
-![stats](https://github-readme-stats.vercel.app/api?username=ArcerionDev&count_private=true&show_icons=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ArcerionDev&count_private=true&show_icons=true&include_all_commits=true) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcerionDev&layout=compact)
 
 
