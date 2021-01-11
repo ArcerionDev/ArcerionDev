@@ -14,13 +14,13 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 
 <details>
 <summary>Contact</summary>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6713
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6537
 </p>
-<img align="left" alt="Email" width="26px" src="https://i.pinimg.com/236x/18/bc/21/18bc212b9eddf141fab6664bc754f72b.jpg" /> ArcerionX@gmail.com
+<img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> ArcerionX@gmail.com
 </p>
-<img align="left" alt="Reddit" width="26px" src="http://t1.gstatic.com/images?q=tbn:ANd9GcThsotATP9ktYH_-oqNK6lYSI2USCxC-9nhbqScnKqvWFyxmL64" /> _Arcerion_
+<img align="left" alt="Reddit" width="26px" src="https://www.reddit.com/favicon.ico" /> _Arcerion_
 </p>
-<img align="left" alt="Spotify" width="26px" src="https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_400x400.jpg" /> Arcerion
+<img align="left" alt="Spotify" width="26px" src="https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico" /> Arcerion
 </details>
 
 ## Popular Repositories:
@@ -30,8 +30,8 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SCSS" width="26px" src="https://gencer.gallerycdn.vsassets.io/extensions/gencer/html-slim-scss-css-class-completion/1.7.6/1597954267759/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="HTML5" width="26px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/favicon.ico" />
+<img align="left" alt="Ubuntu" width="26px" src="https://ubuntu.com/favicon.ico" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Discord.js" width="26px" src="https://discord.js.org/static/icons/favicon-32x32.png" />
 <img align="left" alt="ExpressJs" width="26px" src="https://expressjs.com/images/favicon.png" />
