@@ -14,7 +14,7 @@ I'm a 13 year old from New England. I'm a EDM producer and a JS, SCSS and HTML5 
 
 <details>
 <summary>Contact</summary>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#6537 (683792601219989601)
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> Arcerion#7298 (683792601219989601)
 </p>
 <img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> <a href="mailto:ArcerionX@gmail.com">ArcerionX@gmail.com</a>
 </p>
