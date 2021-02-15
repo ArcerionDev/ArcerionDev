@@ -16,8 +16,6 @@
 </p>
 <img align="left" alt="Reddit" width="26px" src="https://www.reddit.com/favicon.ico" /> <a href="https://reddit.com/u/_Arcerion_">_Arcerion_</a>
 </p>
-
-<img align="left" alt="Spotify" width="26px" src="https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico"/><a href="https://open.spotify.com/user/lh1ye15j4cmn7moia4lfjjp9s">Arcerion</a>
 </details>
 
 ## Popular Repositories:
