@@ -14,8 +14,6 @@
 </p>
 <img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> <a href="mailto:ArcerionX@gmail.com">ArcerionX@gmail.com</a>
 </p>
-<img align="left" alt="Reddit" width="26px" src="https://www.reddit.com/favicon.ico" /> <a href="https://reddit.com/u/_Arcerion_">_Arcerion_</a>
-</p>
 </details>
 
 ## Popular Repositories:
