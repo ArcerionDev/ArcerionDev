@@ -1,3 +1,5 @@
+<img src="https://imgur.com/uPfFBcq.png"></img>
+
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://avatars2.githubusercontent.com/u/60945964?s=460&u=f1c02ff14e174042cc5aae831c23c6283a9b3db4&v=4">
 </p>
@@ -7,9 +9,6 @@
 <summary>About Me</summary>
  Backend JavaScript developer, electronic music producer, house music addict.
 </details>
-
-<img src="https://imgur.com/uPfFBcq.png"></img>
-
 
 <details>
 <summary>Contact</summary>
