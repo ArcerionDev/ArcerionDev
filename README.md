@@ -3,6 +3,8 @@
 </p>
 <h1 align="center">Arcerion</h1>
 
+<img src="https://imgur.com/uPfFBcq"></img>
+
 <details>
 <summary>About Me</summary>
  Backend JavaScript developer, electronic music producer, house music addict.
