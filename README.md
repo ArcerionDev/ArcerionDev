@@ -3,12 +3,13 @@
 </p>
 <h1 align="center">Arcerion</h1>
 
-<img src="https://imgur.com/uPfFBcq.png"></img>
-
 <details>
 <summary>About Me</summary>
  Backend JavaScript developer, electronic music producer, house music addict.
 </details>
+
+<img src="https://imgur.com/uPfFBcq.png"></img>
+
 
 <details>
 <summary>Contact</summary>
