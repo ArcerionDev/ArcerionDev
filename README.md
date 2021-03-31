@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Arcerion</h1>
 
-<img src="https://imgur.com/uPfFBcq"></img>
+<img src="https://imgur.com/uPfFBcq.png"></img>
 
 <details>
 <summary>About Me</summary>
