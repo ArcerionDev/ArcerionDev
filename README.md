@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/UlCTaOc.png"></img>
+<img src="https://imgur.com/qjLH7t9.png"></img>
 
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://avatars2.githubusercontent.com/u/60945964?s=460&u=f1c02ff14e174042cc5aae831c23c6283a9b3db4&v=4">
